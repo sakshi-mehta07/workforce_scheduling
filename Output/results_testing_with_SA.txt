@@ -1,0 +1,78 @@
+Row: 0, Init Mode: RANDOM, Method: 1
+Time (s): 1.4629, Conflicts: 38
+Schedule:
+Emp 0: N N N N A D D
+Emp 1: A - D D D A N
+Emp 2: N - D D D D -
+Emp 3: D D A A - - D
+Emp 4: A A - - N N A
+Emp 5: - A A N N N A
+Emp 6: - N N A A A -
+Emp 7: D D - - - A N
+Emp 8: - - - A A - -
+================================================================================
+Row: 0, Init Mode: RANDOM, Method: 2
+Time (s): 1.3641, Conflicts: 12
+Schedule:
+Emp 0: A A N N - A A
+Emp 1: D D N N A A A
+Emp 2: N N D D - - -
+Emp 3: - - - - N N N
+Emp 4: D D D A A N N
+Emp 5: - A A A A A A
+Emp 6: A - - D D D D
+Emp 7: - - - - N - -
+Emp 8: N N A A D D D
+================================================================================
+Row: 0, Init Mode: RANDOM, Method: 3
+Time (s): 1.259, Conflicts: 10050
+Schedule:
+Emp 0: - - - A A A D
+Emp 1: D N A N D D N
+Emp 2: D D D A - - N
+Emp 3: N D N - - D A
+Emp 4: - - D N D N A
+Emp 5: A A N A A A D
+Emp 6: N - - - N N -
+Emp 7: A A A D A A -
+Emp 8: - N - D N - -
+================================================================================
+Row: 0, Init Mode: GREEDY, Method: 1
+Time (s): 1.2001, Conflicts: 37
+Schedule:
+Emp 0: A A N D A N N
+Emp 1: A A N - A A N
+Emp 2: D D - - A A D
+Emp 3: - - - N D D A
+Emp 4: N N D N N D D
+Emp 5: - - D A N N -
+Emp 6: D D A A - - -
+Emp 7: N N A D - - -
+Emp 8: - - - A D A A
+================================================================================
+Row: 0, Init Mode: GREEDY, Method: 2
+Time (s): 1.1923, Conflicts: 12
+Schedule:
+Emp 0: - - - - A D D
+Emp 1: A A N N N D D
+Emp 2: A A A A A N N
+Emp 3: - - - - - - -
+Emp 4: D D D D D A A
+Emp 5: D D D A N - -
+Emp 6: N N N N - A A
+Emp 7: N N A A A A A
+Emp 8: - - - D D N N
+================================================================================
+Row: 0, Init Mode: GREEDY, Method: 3
+Time (s): 1.2223, Conflicts: 5800
+Schedule:
+Emp 0: D A N N - D N
+Emp 1: D D N N A N N
+Emp 2: A N - A A A D
+Emp 3: A - - - D A -
+Emp 4: N - D D N - D
+Emp 5: N - D A A A -
+Emp 6: - A A - N N A
+Emp 7: - D A A - - A
+Emp 8: - N - D D D -
+================================================================================

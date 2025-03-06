@@ -1,0 +1,2 @@
+filename,schedule_length,num_employees,num_shifts,temporal_requirements,shift_info,days_off_min,days_off_max,work_blocks_min,work_blocks_max,nr_seq_2,nr_seq_3,not_allowed_sequences
+Example2.txt,7,9,3,"[[2, 2, 2, 2, 2, 2, 2], [2, 2, 2, 3,3,3, 2], [2, 2, 2, 2, 2, 2, 2]]","[['D', '360', '480', '2', '7'], ['A', '840', '480', '2', '6'], ['N', '1320', '480', '2', '4']]",2,4,4,7,3,0,"[['N', 'D'], ['N', 'A'], ['A', 'D']]"
